@@ -1,0 +1,7 @@
+C:\Users\Shine\source\repos\GcashCLI\GcashCLI\bin\Debug\GcashCLI.exe.config
+C:\Users\Shine\source\repos\GcashCLI\GcashCLI\bin\Debug\GcashCLI.exe
+C:\Users\Shine\source\repos\GcashCLI\GcashCLI\bin\Debug\GcashCLI.pdb
+C:\Users\Shine\source\repos\GcashCLI\GcashCLI\obj\Debug\GcashCLI.csproj.AssemblyReference.cache
+C:\Users\Shine\source\repos\GcashCLI\GcashCLI\obj\Debug\GcashCLI.csproj.CoreCompileInputs.cache
+C:\Users\Shine\source\repos\GcashCLI\GcashCLI\obj\Debug\GcashCLI.exe
+C:\Users\Shine\source\repos\GcashCLI\GcashCLI\obj\Debug\GcashCLI.pdb
